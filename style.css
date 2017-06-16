@@ -1,1 +1,4 @@
 body {background: #4682B4};
+ h1 { font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */ 
+    font-size: 150%; /* Размер текста */ 
+    font-weight: lighter;};
